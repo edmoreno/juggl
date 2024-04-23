@@ -60,7 +60,7 @@
     "cytoscape-avsdf": "^1.0.0",
     "cytoscape-cola": "^2.5.1",
     "cytoscape-cose-bilkent": "^4.1.0",
-    "cytoscape-cxtmenu": "https://github.com/HEmile/cytoscape.js-cxtmenu/tarball/master",
+    "cytoscape-cxtmenu": "3.5.0",
     "cytoscape-d3-force": "^1.1.4",
     "cytoscape-dagre": "github:HEmile/cytoscape.js-dagre",
     "cytoscape-dblclick": "^0.3.1",
